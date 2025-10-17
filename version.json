@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0.0",
-  "downloadUrl": "https://github.com/Ant1Van/ExLauncher-Releases/releases/download/v2.0.0.0/ExLauncher-v2.0.0.0.zip",
+  "version": "2.0.0.1",
+  "downloadUrl": "https://github.com/Ant1Van/ExLauncher-Releases/releases/download/v2.0.0.1/ExLauncher-v2.0.0.1.zip",
   "releaseNotes": "Новая версия с улучшениями:\n• Улучшена система авто-обновления\n• Исправлены баги в WebView2\n• Добавлена поддержка новых игр\n• Улучшен пользовательский интерфейс",
   "publishedAt": "2025-10-17T19:30:00Z"
 }
